@@ -28,6 +28,7 @@ export default {
     ],
   },
   output: {
+    // clean: true,
     path: './dist-rspack',
     publicPath: '/',
     module: true,
@@ -48,5 +49,5 @@ export default {
   },
   optimization: {
     minimize: false,
-  }
+  },
 };

@@ -29,6 +29,7 @@ export default {
     ],
   },
   output: {
+    clean: true,
     publicPath: '/',
     module: true,
     chunkFormat: 'module',
