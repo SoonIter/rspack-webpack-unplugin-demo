@@ -1,6 +1,0 @@
-{
-  // pa' is proud of ya
-  COOLSON() {
-    return "woo!"
-  },
-}
